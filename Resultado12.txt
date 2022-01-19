@@ -1,0 +1,16 @@
+
+------------------------------------------------------------------------
+	Aluno: Gustavo Henrique Mello Dauer
+	Trabalho 2 - Ordenacao Insertion Sort / Ordenacao Merge Sort
+------------------------------------------------------------------------
+
+	Tamanho entrada: 500000
+
+	Ordenacao Insertion Sort
+
+	Tempo total levado pela CPU: 195.804666
+
+	Ordenacao Merge Sort
+
+	Tempo total levado pela CPU: 0.141909
+

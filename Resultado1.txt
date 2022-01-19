@@ -1,0 +1,15 @@
+
+------------------------------------------------------------------------
+	Aluno: Gustavo Henrique Mello Dauer
+	Trabalho 2 - Ordenacao Insertion Sort / Ordenacao Merge Sort
+------------------------------------------------------------------------
+
+
+	Ordenacao Insertion Sort
+
+	Tempo total levado pela CPU: 0.000001
+
+	Ordenacao Merge Sort
+
+	Tempo total levado pela CPU: 0.000001
+

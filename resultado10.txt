@@ -1,0 +1,18 @@
+
+------------------------------------------------------------------------
+	Aluno: Gustavo Henrique Mello Dauer
+	Trabalho 3 - Sub-Vetor de soma máxima
+------------------------------------------------------------------------
+
+	Tamanho entrada: 10000
+
+	Forca Bruta
+	Total atribuicoes = 100040772
+	Melhor Soma = 990804
+	Sub-Vetor Maximo de 5354 a 9863
+
+	Programacao Dinamica
+	Total atribuicoes = 30831
+	Melhor Soma = 990804
+	Sub-Vetor Maximo de 5354 a 9863
+

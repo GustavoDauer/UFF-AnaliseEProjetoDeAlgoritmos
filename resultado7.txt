@@ -1,0 +1,19 @@
+
+------------------------------------------------------------------------
+	Aluno: Gustavo Henrique Mello Dauer
+	Trabalho 4 - Problema da Partição
+------------------------------------------------------------------------
+
+	Tamanho entrada: 100
+
+	Algoritmo Guloso - Numero de atribuicoes: 32045
+
+	Particao 1: Soma 2595
+
+	Particao 2: Soma 2594
+
+	Programacao Dinamica - Numero de atribuicoes: 521797
+
+	Possui soma? Sim
+Valor total da soma inicial do vetor: 2595
+

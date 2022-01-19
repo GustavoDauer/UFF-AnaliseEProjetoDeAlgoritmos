@@ -1,0 +1,7 @@
+Although the partition problem is NP-complete, there is a pseudo-polynomial time dynamic programming solution, and there are heuristics that solve the problem in many instances, either optimally or approximately. For this reason, it has been called "the easiest NP-hard problem".[2]
+
+There is an optimization version of the partition problem, which is to partition the multiset S into two subsets S1, S2 such that the difference between the sum of elements in S1 and the sum of elements in S2 is minimized. The optimization version is NP-hard, but can be solved efficiently in practice.[3]
+
+This algorithm runs in time O(K N), where N is the number of elements in the input set and K is the sum of elements in the input set.
+
+The algorithm can be extended to the k-way multi-partitioning problem, but then takes O(n(k − 1)mk − 1) memory where m is the largest number in the input, making it impractical even for k = 3 unless the inputs are very small numbers.[3]

@@ -1,0 +1,10 @@
+./sum < Testes/Teste1.txt > resultado1.txt
+./sum < Testes/Teste2.txt > resultado2.txt
+./sum < Testes/Teste3.txt > resultado3.txt
+./sum < Testes/Teste4.txt > resultado4.txt
+./sum < Testes/Teste5.txt > resultado5.txt
+./sum < Testes/Teste6.txt > resultado6.txt
+./sum < Testes/Teste7.txt > resultado7.txt
+./sum < Testes/Teste8.txt > resultado8.txt
+./sum < Testes/Teste9.txt > resultado9.txt
+./sum < Testes/Teste10.txt > resultado10.txt
